@@ -1,0 +1,14 @@
+# @format
+bot:
+  ID: '1369763568693547208'
+  TOKEN: ''
+  PREFIX: '!'
+  EMBED_COLOR: '#ff0000'
+  OWNERS: ['906128534618124289', '896381788782481438']
+  MONGO: 'mongodb+srv://jarvis:op@cluster0.7tisvwv.mongodb.net/?retryWrites=true&w=majority'
+links:
+  INVITE: 'https://discord.com/oauth2/authorize?client_id=1369763568693547208&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2FBADax9vjVw&integration_type=0&scope=bot+connections'
+  SUPPORT: 'https://discord.gg/gvsPB2h5Sz'
+  VOTE: 'https://top.gg/bot/1369763568693547208/vote'
+
+# , '1079414838775779409'
